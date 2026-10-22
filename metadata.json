@@ -1,0 +1,6 @@
+{
+  "name": "Método Freezer Inteligente",
+  "description": "Landing page de vendas do e-book Método Freezer Inteligente da nutricionista Amanda Gama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
